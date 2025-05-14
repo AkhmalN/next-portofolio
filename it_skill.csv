@@ -1,0 +1,268 @@
+Skill,Category,Subcategory
+Objective-C,Mobile Development,Programming Languages
+Android,Mobile Development,Platform
+iOS,Mobile Development,Platform
+Xcode,Mobile Development,Tools
+Android Studio,Mobile Development,Tools
+SwiftUI,Mobile Development,Frameworks
+Jetpack Compose,Mobile Development,Frameworks
+Cocoa Touch,Mobile Development,Frameworks
+Cordova,Mobile Development,Frameworks
+PhoneGap,Mobile Development,Frameworks
+Apache Cordova,Mobile Development,Frameworks
+Capacitor,Mobile Development,Frameworks
+Firebase Cloud Messaging,Mobile Development,Services
+Realm,Mobile Development,Databases
+SQLite,Mobile Development,Databases
+MVVM,Mobile Development,Design Patterns
+MVP,Mobile Development,Design Patterns
+React Native,Mobile Development,Frameworks
+Flutter,Mobile Development,Frameworks
+Xamarin,Mobile Development,Frameworks
+Ionic,Mobile Development,Frameworks
+Redux,Frontend Development,State Management Libraries
+Vuex,Frontend Development,State Management Libraries
+Jest,Frontend Development,Testing Frameworks
+Mocha,Frontend Development,Testing Frameworks
+Cypress,Frontend Development,Testing Frameworks
+Enzyme,Frontend Development,Testing Libraries
+Selenium,Frontend Development,Testing Tools
+React Router,Frontend Development,Routing
+Vue Router,Frontend Development,Routing
+GraphQL,Frontend Development,APIs
+Apollo Client,Frontend Development,APIs
+Electron,Frontend Development,Frameworks
+WebSockets,Frontend Development,Real-time Communication
+Svelte,Frontend Development,Frameworks
+Next.js,Frontend Development,Frameworks
+Nuxt.js,Frontend Development,Frameworks
+Tailwind CSS,Frontend Development,Styling
+Bulma,Frontend Development,Styling
+Material-UI,Frontend Development,UI Frameworks
+Vuetify,Frontend Development,UI Frameworks
+Pug,Frontend Development,Markup Languages
+Jade,Frontend Development,Markup Languages
+Meteor,Fullstack Development,Frameworks
+MEAN Stack,Fullstack Development,Technologies
+MERN Stack,Fullstack Development,Technologies
+LAMP Stack,Fullstack Development,Technologies
+JAMstack,Fullstack Development,Technologies
+GraphQL,Fullstack Development,APIs
+WebSocket,Fullstack Development,Real-time Communication
+Node.js,Fullstack Development,Runtime Environments
+Django,Backend Development,Frameworks
+Flask,Backend Development,Frameworks
+Express.js,Backend Development,Frameworks
+Laravel,Backend Development,Frameworks
+Spring Boot,Backend Development,Frameworks
+ASP.NET Core,Backend Development,Frameworks
+NestJS,Backend Development,Frameworks
+Go,Backend Development,Programming Languages
+PHP,Backend Development,Programming Languages
+Ruby,Backend Development,Programming Languages
+Java,Backend Development,Programming Languages
+Python,Backend Development,Programming Languages
+C#,Backend Development,Programming Languages
+TypeScript,Backend Development,Programming Languages
+MongoDB,Backend Development,Databases
+MySQL,Backend Development,Databases
+PostgreSQL,Backend Development,Databases
+Redis,Backend Development,Caching
+Elasticsearch,Backend Development,Databases
+Cassandra,Backend Development,Databases
+SQLite,Backend Development,Databases
+Docker,DevOps,Containerization
+Kubernetes,DevOps,Orchestration
+CI/CD,DevOps,Automation
+GitLab CI/CD,DevOps,CI/CD
+Jenkins,DevOps,Automation
+Terraform,DevOps,Infrastructure as Code
+Ansible,DevOps,Configuration Management
+Puppet,DevOps,Configuration Management
+Chef,DevOps,Configuration Management
+Prometheus,DevOps,Monitoring & Logging
+Grafana,DevOps,Monitoring & Logging
+Nagios,DevOps,Monitoring & Logging
+New Relic,DevOps,Monitoring & Logging
+AWS,Cloud Technologies,Cloud Providers
+Azure,Cloud Technologies,Cloud Providers
+Google Cloud,Cloud Technologies,Cloud Providers
+IBM Cloud,Cloud Technologies,Cloud Providers
+CloudFormation,Cloud Technologies,Infrastructure as Code
+Docker Swarm,DevOps,Container Orchestration
+Helm,DevOps,Container Orchestration
+OpenShift,DevOps,Container Orchestration
+Vault,DevOps,Secrets Management
+Bitbucket,DevOps,Version Control
+GitHub,DevOps,Platforms
+Git,DevOps,Version Control
+Slack,Communication,Collaboration Tools
+Microsoft Teams,Communication,Collaboration Tools
+Zoom,Communication,Collaboration Tools
+Google Drive,Cloud Technologies,Services
+Dropbox,Cloud Technologies,Services
+OneDrive,Cloud Technologies,Services
+Firebase,Backend Development,Cloud Services
+Google Firebase,Mobile Development,Backend Services
+Cloudflare,Cloud Technologies,CDN & Security
+Cloud Storage,Cloud Technologies,Services
+AWS S3,Cloud Technologies,Storage Services
+Google Cloud Storage,Cloud Technologies,Storage Services
+Azure Blob Storage,Cloud Technologies,Storage Services
+MongoDB Atlas,Cloud Technologies,Database Services
+RDS,Cloud Technologies,Database Services
+Redshift,Cloud Technologies,Data Warehousing
+BigQuery,Cloud Technologies,Data Warehousing
+Cassandra,Database,NoSQL Databases
+RDS,Database,SQL Databases
+PostgreSQL,Database,SQL Databases
+BigQuery,Data Science,Big Data Technologies
+Hadoop,Data Science,Big Data Technologies
+Spark,Data Science,Big Data Technologies
+Kafka,Data Science,Big Data Technologies
+PySpark,Data Science,Big Data Technologies
+Matplotlib,Data Science,Data Visualization
+Seaborn,Data Science,Data Visualization
+Tableau,Data Science,Data Visualization
+Power BI,Data Science,Data Visualization
+Scikit-learn,Data Science,Machine Learning Libraries
+TensorFlow,Data Science,Machine Learning Libraries
+Keras,Data Science,Machine Learning Libraries
+PyTorch,Data Science,Machine Learning Libraries
+OpenCV,Data Science,Computer Vision Libraries
+H2O.ai,Data Science,AI & ML
+XGBoost,Data Science,Machine Learning Libraries
+LightGBM,Data Science,Machine Learning Libraries
+Jupyter,Data Science,Notebooks/Tools
+R,Data Science,Programming Languages
+NumPy,Data Science,Libraries
+Pandas,Data Science,Libraries
+Scipy,Data Science,Libraries
+IoT,Emerging Technologies,Devices & Platforms
+Edge Computing,Emerging Technologies,IoT
+5G,Emerging Technologies,Networking
+Blockchain,Emerging Technologies,Distributed Ledger
+Cryptocurrency,Emerging Technologies,Blockchain
+Smart Contracts,Emerging Technologies,Blockchain
+Ethereum,Emerging Technologies,Blockchain
+Solidity,Emerging Technologies,Blockchain Programming
+Hyperledger,Emerging Technologies,Blockchain Framework
+IoT Devices,Emerging Technologies,Hardware
+Augmented Reality,Emerging Technologies,Immersive Tech
+Virtual Reality,Emerging Technologies,Immersive Tech
+AI,Data Science,Artificial Intelligence
+Natural Language Processing,Data Science,AI & ML
+Deep Learning,Data Science,AI & ML
+Computer Vision,Data Science,AI & ML
+Robotic Process Automation,Emerging Technologies,RPA
+HTML,Frontend Development,Markup Languages
+CSS,Frontend Development,Styling
+JavaScript,Frontend Development,Programming Languages
+TypeScript,Frontend Development,Programming Languages
+React,Frontend Development,Frameworks/Libraries
+Vue.js,Frontend Development,Frameworks/Libraries
+Angular,Frontend Development,Frameworks/Libraries
+SASS,Frontend Development,Preprocessors
+Bootstrap,Frontend Development,UI Frameworks
+JQuery,Frontend Development,Libraries
+Webpack,Frontend Development,Build Tools
+Gulp,Frontend Development,Build Tools
+Node.js,Backend Development,Runtime Environments
+Express.js,Backend Development,Frameworks
+PHP,Backend Development,Programming Languages
+Ruby on Rails,Backend Development,Frameworks
+Django,Backend Development,Frameworks
+Flask,Backend Development,Frameworks
+Java,Backend Development,Programming Languages
+Spring Boot,Backend Development,Frameworks
+C#,Backend Development,Programming Languages
+ASP.NET,Backend Development,Frameworks
+Go,Backend Development,Programming Languages
+MongoDB,Backend Development,Databases
+MySQL,Backend Development,Databases
+PostgreSQL,Backend Development,Databases
+SQLite,Backend Development,Databases
+Redis,Backend Development,Caching
+Apache Kafka,Backend Development,Messaging Systems
+GraphQL,Backend Development,APIs
+RESTful API,Backend Development,APIs
+JWT (JSON Web Token),Backend Development,Authentication
+Docker,DevOps,Containerization
+Kubernetes,DevOps,Orchestration
+CI/CD,DevOps,Automation
+Jenkins,DevOps,Automation
+Git,DevOps,Version Control
+GitHub,DevOps,Platforms
+GitLab,DevOps,Platforms
+Terraform,DevOps,Infrastructure as Code
+Ansible,DevOps,Configuration Management
+Chef,DevOps,Configuration Management
+Puppet,DevOps,Configuration Management
+AWS,Cloud Technologies,Cloud Providers
+Azure,Cloud Technologies,Cloud Providers
+Google Cloud,Cloud Technologies,Cloud Providers
+IBM Cloud,Cloud Technologies,Cloud Providers
+CloudFormation,Cloud Technologies,Infrastructure as Code
+Docker Swarm,DevOps,Container Orchestration
+Prometheus,DevOps,Monitoring & Logging
+Grafana,DevOps,Monitoring & Logging
+Nagios,DevOps,Monitoring & Logging
+New Relic,DevOps,Monitoring & Logging
+Elasticsearch,DevOps,Monitoring & Logging
+Machine Learning,Data Science,AI & ML
+Deep Learning,Data Science,AI & ML
+Natural Language Processing,Data Science,AI & ML
+Data Visualization,Data Science,Tools
+Tableau,Data Science,Tools
+Power BI,Data Science,Tools
+Matplotlib,Data Science,Libraries
+Seaborn,Data Science,Libraries
+Pandas,Data Science,Libraries
+NumPy,Data Science,Libraries
+Scikit-learn,Data Science,Libraries
+R,Data Science,Programming Languages
+TensorFlow,Data Science,Libraries
+PyTorch,Data Science,Libraries
+Big Data,Data Science,Technologies
+Hadoop,Data Science,Technologies
+Spark,Data Science,Technologies
+Kafka,Data Science,Technologies
+Blockchain,Emerging Technologies,Distributed Ledger
+Cryptocurrency,Emerging Technologies,Blockchain
+Smart Contracts,Emerging Technologies,Blockchain
+IoT (Internet of Things),Emerging Technologies,Devices & Platforms
+Edge Computing,Emerging Technologies,IoT
+Augmented Reality,Emerging Technologies,Immersive Tech
+Virtual Reality,Emerging Technologies,Immersive Tech
+UI/UX Design,Design,User Interface
+Wireframing,Design,Tools
+Figma,Design,Tools
+Adobe XD,Design,Tools
+Sketch,Design,Tools
+Adobe Photoshop,Design,Tools
+Agile,Project Management,Methodologies
+Scrum,Project Management,Methodologies
+Kanban,Project Management,Methodologies
+Jira,Project Management,Tools
+Trello,Project Management,Tools
+Confluence,Project Management,Tools
+Asana,Project Management,Tools
+Slack,Communication,Collaboration Tools
+Microsoft Teams,Communication,Collaboration Tools
+Zoom,Communication,Collaboration Tools
+Cloud Storage,Cloud Technologies,Services
+Google Drive,Cloud Technologies,Services
+Dropbox,Cloud Technologies,Services
+OneDrive,Cloud Technologies,Services
+Security,Security,General
+Network Security,Security,Infrastructure
+Penetration Testing,Security,Ethical Hacking
+Cybersecurity,Security,General
+Ethical Hacking,Security,Practices
+Firewalls,Security,Network Security
+Data Encryption,Security,Cryptography
+VPN,Security,Network Security
+Incident Response,Security,Practices
+SOC (Security Operations Center),Security,Practices
+IAM (Identity & Access Management),Security,Practices
+Zero Trust,Security,Practices

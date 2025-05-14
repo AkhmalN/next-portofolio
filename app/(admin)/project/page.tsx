@@ -2,7 +2,6 @@ import { Suspense } from "react";
 import { fetchCollections } from "@/lib/collection/fetch-collection";
 import Loading from "./loading";
 import ProjectSection from "./List";
-import { dummyProjects } from "@/data/dummy";
 
 export default async function ProjectPage({
   searchParams,
